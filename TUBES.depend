@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1702744811 source:d:\revan\materi kuliah\semester 3\struktur data\tugas besar\tubes\main.cpp
+	<iostream>
+	"header.h"
+
+1702745792 d:\revan\materi kuliah\semester 3\struktur data\tugas besar\tubes\header.h
+	<iostream>
+
+1702746558 source:d:\revan\materi kuliah\semester 3\struktur data\tugas besar\tubes\tubes.cpp
+	"header.h"
+
